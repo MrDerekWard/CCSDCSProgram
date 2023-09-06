@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derek's Computer Science Page</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: metallicgold;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Your header content goes here -->
+    </header>
+
+    <main>
+        <!-- Your main content goes here -->
+    </main>
+
+    <footer>
+        <!-- Your footer content goes here -->
+    </footer>
+</body>
+</html>
